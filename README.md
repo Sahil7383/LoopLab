@@ -2,7 +2,8 @@
 LoopLab is a simple website created using bootstrep 4 classes.
 
 Website : https://loop-lab1-sahil7383.vercel.app/
-photos
+
+-> photos
 
 ![Screenshot (2261)](https://user-images.githubusercontent.com/79010142/132498146-7d896539-bf5a-4108-8472-e0eb0afbddfc.png)
 ![Screenshot (2262)](https://user-images.githubusercontent.com/79010142/132498152-c8986738-ca4d-4e8f-b791-f3d6031cac19.png)
